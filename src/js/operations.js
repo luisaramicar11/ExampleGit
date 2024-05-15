@@ -12,3 +12,7 @@ function calculateAge(dateOfBirth) {
 function editPet(){
     
 }
+
+function deletePet(){
+    
+}
